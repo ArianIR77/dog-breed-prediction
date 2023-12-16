@@ -16,3 +16,7 @@ This Dog Breed Prediction project is a Python-based machine learning application
 - NumPy, Pandas
 
 
+##Running the Project
+- Clone the repository to your local machine.
+- Install required dependencies: pip install -r requirements.txt
+- Run the Streamlit app: streamlit run main_app.py
